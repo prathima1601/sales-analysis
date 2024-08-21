@@ -7,5 +7,5 @@ A Power BI Dashboard showcasing the Sales Analysis of Super Stores and forecasti
 5. Profit by Month
 6. Sales by ShipMode
 7. Sales by Category
-8. Sales by SubCategory
-                       It also gives a region wise breakdown of all these charts on the map based on their location.
+8. Sales by SubCategory.
+It also gives a region wise breakdown of all these charts on the map based on their location.
